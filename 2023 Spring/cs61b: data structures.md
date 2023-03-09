@@ -2,25 +2,45 @@
 
 [toc]
 
-## lecture 1: Intoduction
+## Week 1
 
->Finish date: week 1 (3.6~3.10)
-
-
+>Finish date: 3.6 ~ 3.10 [w1]
 
 
 
-
-
-## lecture 2: Defining and using classes
-
-> Finish date: week 1 (3.6~3.10)
+### 2. Defining and Using Classes
 
 
 
 
 
+## Week 2
 
+> Finish date: 3.6~3.10 [w1]
+
+
+
+### 1. Testing
+
+
+
+
+
+### 2. References, Recursion, and Lists
+
+
+
+
+
+
+
+### 3. SLLists, Nested Classes, Sentinel Nodes
+
+
+
+## Week 3
+
+> Finish date: 3.6 ~ 3.10 [w1]
 
 
 
